@@ -1,1 +1,3 @@
-# PRO-C120-Reference-Code
+# Machine Learning project
+# Introduction
+This project aims at creating a ML chatbot using python and model training....
